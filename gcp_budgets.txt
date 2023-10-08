@@ -1,0 +1,16 @@
+C:\Users\Kostek\AppData\Local\Google\Cloud SDK>gcloud billing budgets create --billing-account=0199D8-40867D-8AA7FE --display-name="BUDGET1" --budget-amount=100
+Created [6e2d266c-4925-4cba-951c-1a982c2c28c8].
+
+C:\Users\Kostek\AppData\Local\Google\Cloud SDK>gcloud billing budgets list --billing-account=0199D8-40867D-8AA7FE
+---
+amount:
+  specifiedAmount:
+    currencyCode: PLN
+    units: '100'
+budgetFilter:
+  calendarPeriod: MONTH
+  creditTypesTreatment: INCLUDE_ALL_CREDITS
+displayName: BUDGET1
+etag: '1696787132414783'
+name: billingAccounts/0199D8-40867D-8AA7FE/budgets/6e2d266c-4925-4cba-951c-1a982c2c28c8
+notificationsRule: {}
