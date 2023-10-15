@@ -1,1 +1,8 @@
 https://storage.googleapis.com/aw-bucket-one/index.html
+	
+    gcloud storage buckets create gs://aw-bucket-two --default-storage-class=STANDARD --location=EUROPE-CENTRAL2  --no-public-access-prevention --uniform-bucket-level-access
+
+     gsutil iam ch allUsers:objectViewer gs://aw-bucekt-two
+
+     gsutil cp C:\Users\Kostek\Downloads\index.html gs://aw-bucket-two
+ 
