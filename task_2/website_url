@@ -1,4 +1,4 @@
-https://storage.googleapis.com/aw-bucket-one/index%20(1).html
+https://storage.googleapis.com/aw-bucket-one/index.html
 	
     gcloud storage buckets create gs://aw-bucket-two --default-storage-class=STANDARD --location=EUROPE-CENTRAL2  --no-public-access-prevention --uniform-bucket-level-access
 
