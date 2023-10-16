@@ -2,4 +2,4 @@
 
 DareIT Cloud Challenge 2023 
 
-Dedicated course to learn basics of Google Cloud Platform
+A course dedicated to learning basics of Google Cloud Platform
