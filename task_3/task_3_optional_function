@@ -1,0 +1,23 @@
+def hello_function():
+    print("Hello from the other siiiiiiiiiide!")
+
+def my_function_with_args(name, surname):
+    print("Hello, it's me, %s %s"%(name, surname))
+
+def sum_two_numbers(a, b):
+    return a + b
+
+hello_function()
+
+my_function_with_args("Angelika", "Witkowska")
+
+x = sum_two_numbers(1,2)
+print(x)
+
+
+ 
+#C:\Users\Kostek\AppData\Local\Google\Cloud SDK>py hello_function.py
+#Hello from the other siiiiiiide!
+#Hello, it's me, Angelika Witkowska
+#3
+
