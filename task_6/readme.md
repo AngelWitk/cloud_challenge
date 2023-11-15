@@ -1,0 +1,1 @@
+https://storage.googleapis.com/wa-dareit-bucket/index.html
