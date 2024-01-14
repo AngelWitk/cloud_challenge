@@ -1,10 +1,15 @@
-Task steps:
-Create this repository and connect with local repository.
+Task 1 - part 1 
 
-Learn how to use Cloud Shell - a free online environment with command-line access for managing your infrastructure and an online code editor for cloud development.
+I used Cloud SDK.
 
-Get a command to list enabled services in your project and copy the returned list to a file (enabled_services.txt) in repository.
 
-$ gcloud services list
+Step 1️⃣
+Check the GCP docs to get a command to list enabled services in your project.
 
-Go to Cloud Billing and check how many credits you have available in your account. Play with the report.
+Step 2️⃣
+Copy the returned list to a file in your cloud_challenge repository called enabled_services
+
+
+Task 1 - part 2 - optional
+
+Using the docs, figure out how to produce a gcloud command to create a budget in GCP. Create the budget and then list all budgets using gcloud. 
