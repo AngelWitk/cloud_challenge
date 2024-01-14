@@ -1,5 +1,10 @@
-aaa# cloud_challenge
+Task steps:
+Create this repository and connect with local repository.
 
-DareIT Cloud Challenge 2023 
+Learn how to use Cloud Shell - a free online environment with command-line access for managing your infrastructure and an online code editor for cloud development.
 
-A course dedicated to learning basics of Google Cloud Platform
+Get a command to list enabled services in your project and copy the returned list to a file (enabled_services.txt) in repository.
+
+$ gcloud services list
+
+Go to Cloud Billing and check how many credits you have available in your account. Play with the report.
