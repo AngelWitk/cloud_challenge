@@ -1,6 +1,7 @@
 Task 2 - part 1
 
 The goal of the task is to host a static website in a GCS bucket. 
+
 Paste the url into the website_url file and save.
 
 Task 2 - part 2 - optional 
