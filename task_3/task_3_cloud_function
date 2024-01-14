@@ -19,5 +19,7 @@ def hello_world(request):
         current_time = now.strftime("%H:%M:%S")
         return 'Let me tell you what time it is: ' + current_time
     
+
 #Let me tell you what time it is: 19:57:38
+
 #https://europe-central2-bamboo-creek-401412.cloudfunctions.net/function-2 
