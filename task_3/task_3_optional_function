@@ -16,8 +16,8 @@ print(x)
 
 
  
-#C:\Users\Kostek\AppData\Local\Google\Cloud SDK>py hello_function.py
-#Hello from the other siiiiiiide!
-#Hello, it's me, Angelika Witkowska
-#3
+py hello_function.py
+Hello from the other siiiiiiide!
+Hello, it's me, Angelika Witkowska
+3
 
